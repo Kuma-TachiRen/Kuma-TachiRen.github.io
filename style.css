@@ -5,7 +5,8 @@
 }
 
 body {
-    margin: 10px 10%;
+    margin: 10px auto;
+    max-width: 1000px;
     background-color: #fff0e0;
     display: flex;
 }
@@ -50,5 +51,4 @@ li::before {
     font-weight: bold;
     font-size: 20px;
     padding: 3px 8px;
-    border-bottom: 1px solid var(--main-color);
 }
