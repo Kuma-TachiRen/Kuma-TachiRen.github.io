@@ -49,6 +49,6 @@ li::before {
     content: attr(title);
     color: var(--sub-color);
     font-weight: bold;
-    font-size: 20px;
+    font-size: larger;
     padding: 3px 8px;
 }
