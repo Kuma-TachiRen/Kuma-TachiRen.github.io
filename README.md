@@ -2,7 +2,7 @@
 
 ## 何者
 
-Minecraft，数学，競プロ，音ゲーなど．京大理学部B3(数学)．
+Minecraft，数学，競プロ，音ゲーなど．京大理学部B4(数学)．
 
 Twitter：[@Kuma_TachiRen](https://twitter.com/Kuma_TachiRen)
 
